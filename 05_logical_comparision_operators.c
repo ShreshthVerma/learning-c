@@ -7,7 +7,7 @@ int main() {
     /*Customer is only Eligible for discount if they bought three or 
     more items and their bill is greater than 500 or they have the
     Membership*/
-    printf("--- Shopping Discount Eligibility (Logical Operators) ---\n\n");
+    printf("----Shopping Discount Eligibility (Logical Operators)----\n\n");
     
     /*Case1 Customer bought more than 3 items and the bill is more
             than 500*/
