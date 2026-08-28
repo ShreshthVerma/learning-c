@@ -29,7 +29,7 @@ int main() {
      bill=232.43;
      has_membership=0;
      is_eligible=(quantity>=3 && bill>500)||has_membership;
-     printf("Case 3 (Two items, No membership)  -> Not Eligible: %d\n", is_eligible);
+     printf("Case 3 (Two items, No membership) -> Not Eligible: %d\n", is_eligible);
 
 
 }
